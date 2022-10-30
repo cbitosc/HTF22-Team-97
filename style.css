@@ -4,14 +4,16 @@
     font-family: 'Poppins', sans-serif;
 }
 .header{
-    padding: 10px;
+    padding: 5px;
     position: relative;
   text-align: center;
-  color: white;
-  font-size: 30px;
-  font-family: 'Teko', sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
 }
 .bodt1{
-   padding:20px;
-   font-size: 10;
+   padding:30px;
+   font-size: 40;
+   line-height: 150%;
+   text-align: center;
 }

@@ -1,9 +1,8 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(to right,
-            rgb(0, 0, 0) 0%,
-            rgb(0, 0, 0) 20%,
-            rgb(109, 209, 164) 20%,
-            rgb(43, 83, 65) 100%);
+   
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
 }
